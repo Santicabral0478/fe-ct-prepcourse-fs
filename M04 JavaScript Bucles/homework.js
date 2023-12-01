@@ -5,6 +5,10 @@ function obtenerMayor(x, y) {
    // Retornar el número más grande.
    // Si son iguales, retornar cualquiera de los dos.
    // Tu código:
+
+   //ESET ES UNA MODIFICACION DE PRUEBA PARA SABER SI LOS CABIOS EN LOS ARCHIVOS LOCALES SE AGREGAN A MI REPOSITORIO EN GITHUB    ._.
+//                                                                                                                                /|\
+//                                                                                                                                / \
 }
 
 function mayoriaDeEdad(edad) {
